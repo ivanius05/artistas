@@ -1,2 +1,1 @@
 # artistas
-artistas
